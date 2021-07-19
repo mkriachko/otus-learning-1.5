@@ -1,8 +1,8 @@
 # otus-learning-1.5
 
-Command (ip can be different)
+Command
 ```
-curl -X GET "http://192.168.39.15:80/otusapp/kriachko/health" -H  "accept: */*" -H "host: arch.homework"
+curl -X GET "http://arch.homework/otusapp/kriachko/health"
 ```
 should return
 ```
