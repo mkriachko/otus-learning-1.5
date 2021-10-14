@@ -6,5 +6,5 @@ curl -X GET "http://arch.homework/otusapp/kriachko/health"
 ```
 should return
 ```
-{"status":"OK"}
+{ "status":"OK" }
 ```
